@@ -1,0 +1,3 @@
+[tool.poetry]
+name = "shield-ai"
+version = "0.1.0"
